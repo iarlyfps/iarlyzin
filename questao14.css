@@ -1,0 +1,1 @@
+/* Padding de 20 pixels em todos os lados */.elemento {  padding: 20px;}/* Padding de 10 pixels em cima e embaixo, e 20 pixels à esquerda e à direita */.elemento {  padding: 10px 20px;}/* Padding específico para cada lado */.elemento {  padding-top: 10px;  padding-right: 20px;  padding-bottom: 10px;  padding-left: 20px;}
